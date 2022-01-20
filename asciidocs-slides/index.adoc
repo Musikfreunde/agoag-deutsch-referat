@@ -1,16 +1,25 @@
-= Demo-Presentation1
-Thomas W. Stütz
+= Der Riese Agoag
+Benjamin Besic, Bozidar Spasenovic, David Ignjatovic
 1.0, 2020-08-22
 ifndef::sourcedir[:sourcedir: ../src/main/java]
 ifndef::imagesdir[:imagesdir: images]
 ifndef::backend[:backend: html5]
 :icons: font
+:imagesdir: images
+:customcss: css/presentation.css
 
-== First Slide
+== Autor
 
-* aaa
-* bbb
-* ccc [red]#red text#
+**Robert Musli**
+
+* geboren am 6. November 1880 in St. Ruprecht bei Klagenfurt
+* gestorben am 15. April in Genf
+* österreichischer Schriftsteller
+* bedeutsame Einschnitte waren:
+- Erste Weltkrieg
+- nationalsozialistische Herrschaft in Deutschland und Österreich.
+
+image::robert_musli.jpg[]
 
 === Second Slide
 
