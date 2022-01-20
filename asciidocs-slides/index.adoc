@@ -7,21 +7,26 @@ ifndef::backend[:backend: html5]
 :icons: font
 :imagesdir: images
 :customcss: css/presentation.css
+:revealjs_parallaxBackgroundSize: cover
 
 == Autor
+image::background.jpg[background, size=cover]
 
 **Robert Musli**
 
 * geboren am 6. November 1880 in St. Ruprecht bei Klagenfurt
 * gestorben am 15. April in Genf
 * österreichischer Schriftsteller
+
+=== Autor
+
 * bedeutsame Einschnitte waren:
 - Erste Weltkrieg
 - nationalsozialistische Herrschaft in Deutschland und Österreich.
 
 image::robert_musli.jpg[]
 
-=== Second Slide
+image::background.jpg[background, size=cover]
 
 [plantuml,cld,png]
 ----
@@ -33,10 +38,14 @@ type: String
 @enduml
 ----
 
-== Third Slide
+== Inhalt
+
+image::background.jpg[background, size=cover]
 
 image:https://images.pexels.com/photos/3966425/pexels-photo-3966425.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940[VW]
 
-== Fourth Slide
+== Interpretation
+image::background.jpg[background, size=cover]
+
 
 IMPORTANT: Something very important
