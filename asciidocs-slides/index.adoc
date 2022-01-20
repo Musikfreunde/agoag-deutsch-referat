@@ -19,6 +19,7 @@ ifndef::backend[:backend: html5]
 * Gestorben am 15. April in Genf
 * Österreichischer Schriftsteller
 
+[%notitle]
 === Autor
 
 **Bedeutsame Einschnitte waren:**
@@ -36,6 +37,9 @@ image::robert_musli.jpg[]
 * Ironie -> Zeile 1: "Wenn der Held dieser Erzählung ..."
 * Personifikation -> Titel: "Der Riese Agoag" (Der Omnibus)
 * Hypotaxen -> z.B. Zeile 1 - 6 ein zusammengesetzter Satz
+
+[%notitle]
+=== Sprachliche Besonderheiten
 * Umschreibung -> z.B. Zeile 42: "in den Leib eines Riesen kriechen,..."
 * Vergleiche -> z.B. Zeile 36-37: "abgeschält wie ein Span oder eine Apfelschale"
 
