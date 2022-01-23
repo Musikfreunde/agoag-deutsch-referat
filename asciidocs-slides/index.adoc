@@ -49,7 +49,7 @@ image::robert_musli.jpg[]
 
 == Sprachliche Besonderheiten
 * Ironie -> Zeile 1: "Wenn der Held dieser Erzählung ..."
-* Metapher -> Titel: "Der Riese Agoag" (Der Omnibus)
+* Metapher für Kraft -> Titel: "Der Riese Agoag" (Der Omnibus)
 * Hypotaxen -> Zeile 1 - 6 ein zusammengesetzter Satz
 
 [%notitle]
