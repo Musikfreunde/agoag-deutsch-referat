@@ -31,10 +31,10 @@ image::robert_musli.jpg[]
 
 == Inhalt
 
-* junger Mann
-** interrese an Schwergewichtsboxen
-* klein und mickrig
-** wurde verprügelt
+* Junger Mann
+** Interesse an Schwergewichtsboxen
+* Klein und Mickrig
+** Wurde verprügelt
 * Athlet wird von einem Omnibus überfahren
 * 15 Pfeninge
 * Date im Omnibus mit einer Frau
@@ -43,18 +43,20 @@ image::robert_musli.jpg[]
 [.notes]
 --
 * Es geht um einen jungen Mann, der sich sehr für schwergewichts boxen interresiert, dessen Leben unglücklich war. Der Mann wird als klein und mickrig beschrieben. Da er von Frauen nur Körbe kassiert, hat er angefangen zu trainieren, aber er hatte kein geld sich in einem Verein anzumelden. Er wurde auf der Straße von einem etwas dickerem Typen verprügelt was den jungen Mann komplett veränderte. Er hat dann nach einer Zeit einen Athleten auf der Straße gesehen wie er von einem Omnibus angefahren wird. Und da dachte sich der Mann das er auch anders „groß“ und „stark“ wirken kann. Denn um 15 pfeninge konnte er mit dem Bus fahren und sah die Welt von oben. Später lud er eine Frau ein, mit ihm im Omni bus mitzufahren und gleichzeitig um Bus war ein etwas größerer Herr mit einem Schnurrbart der mit der Frau flirtete. Nachdem die Frau und der „Held“ ausstiegen fragte der junge Mann die Frau was das sein sollte. Und sie sagte darauf das sie nicht starke Männer liebt sondern nur Omni busse
+* Allgemein geschätzte Omnibus-Athleten-Gesellschaft = AGOAG
 --
 
 
 == Sprachliche Besonderheiten
 * Ironie -> Zeile 1: "Wenn der Held dieser Erzählung ..."
-* Personifikation -> Titel: "Der Riese Agoag" (Der Omnibus)
-* Hypotaxen -> z.B. Zeile 1 - 6 ein zusammengesetzter Satz
+* Metapher -> Titel: "Der Riese Agoag" (Der Omnibus)
+* Hypotaxen -> Zeile 1 - 6 ein zusammengesetzter Satz
 
 [%notitle]
 === Sprachliche Besonderheiten
-* Umschreibung -> z.B. Zeile 42: "in den Leib eines Riesen kriechen,..."
-* Vergleiche -> z.B. Zeile 36-37: "abgeschält wie ein Span oder eine Apfelschale"
+* Umschreibung -> Zeile 42: "in den Leib eines Riesen kriechen,..."
+* Vergleiche -> Zeile 36-37: "abgeschält wie ein Span oder eine Apfelschale"
+* Viele beschreibende Adjektive für Macht -> Zeile: 43-44: "riesenhaft", "athletisch"
 
 == Wendepunkt
 Zeile 33: Durchtrainierter Sportler wird von einem Omnibus angefahren und schwer verletzt
