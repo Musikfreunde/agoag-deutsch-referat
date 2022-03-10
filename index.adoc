@@ -1,0 +1,65 @@
+= Der Riese Agoag
+Benjamin Besic, Bozidar Spasenovic, David Ignjatovic
+1.0, 2020-08-22
+ifndef::sourcedir[:sourcedir: ../src/main/java]
+ifndef::imagesdir[:imagesdir: images]
+ifndef::backend[:backend: html5]
+:icons: font
+:imagesdir: images
+:customcss: css/presentation.css
+:revealjs_parallaxBackgroundSize: cover
+:revealjs_parallaxBackgroundImage: images/background.jpg
+
+== Autor
+
+
+**Robert Musli**
+
+* Geboren am 6. November 1880 in St. Ruprecht bei Klagenfurt
+* Gestorben am 15. April in Genf
+* Österreichischer Schriftsteller
+
+[%notitle]
+=== Autor
+
+**Bedeutsame Einschnitte waren:**
+
+* Erste Weltkrieg
+* Nationalsozialistische Herrschaft in Deutschland und Österreich.
+
+image::robert_musli.jpg[]
+
+== Inhalt
+
+* Junger Mann
+** Interesse an Schwergewichtsboxen
+* Klein und Mickrig
+** Wurde verprügelt
+* Athlet wird von einem Omnibus überfahren
+* 15 Pfeninge
+* Date im Omnibus mit einer Frau
+** Frau sagt sie liebt Omnibusse
+
+[.notes]
+--
+* Es geht um einen jungen Mann, der sich sehr für schwergewichts boxen interresiert, dessen Leben unglücklich war. Der Mann wird als klein und mickrig beschrieben. Da er von Frauen nur Körbe kassiert, hat er angefangen zu trainieren, aber er hatte kein geld sich in einem Verein anzumelden. Er wurde auf der Straße von einem etwas dickerem Typen verprügelt was den jungen Mann komplett veränderte. Er hat dann nach einer Zeit einen Athleten auf der Straße gesehen wie er von einem Omnibus angefahren wird. Und da dachte sich der Mann das er auch anders „groß“ und „stark“ wirken kann. Denn um 15 pfeninge konnte er mit dem Bus fahren und sah die Welt von oben. Später lud er eine Frau ein, mit ihm im Omni bus mitzufahren und gleichzeitig um Bus war ein etwas größerer Herr mit einem Schnurrbart der mit der Frau flirtete. Nachdem die Frau und der „Held“ ausstiegen fragte der junge Mann die Frau was das sein sollte. Und sie sagte darauf das sie nicht starke Männer liebt sondern nur Omni busse
+* Allgemein geschätzte Omnibus-Athleten-Gesellschaft = AGOAG
+--
+
+
+== Sprachliche Besonderheiten
+* Ironie -> Zeile 1: "Wenn der Held dieser Erzählung ..."
+* Metapher für Kraft -> Titel: "Der Riese Agoag" (Der Omnibus)
+* Hypotaxen -> Zeile 1 - 6 ein zusammengesetzter Satz
+
+[%notitle]
+=== Sprachliche Besonderheiten
+* Umschreibung -> Zeile 42: "in den Leib eines Riesen kriechen,..."
+* Vergleiche -> Zeile 36-37: "abgeschält wie ein Span oder eine Apfelschale"
+* Viele beschreibende Adjektive für Macht -> Zeile: 43-44: "riesenhaft", "athletisch"
+
+== Wendepunkt
+Zeile 33: Durchtrainierter Sportler wird von einem Omnibus angefahren und schwer verletzt
+
+== Interpretation
+Autor sagt aus, dass schwache Menschen, die mit Hilsmitteln Macht erstreben, ihre persönlichen Schwächen ausgleichen wollen.
